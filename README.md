@@ -23,7 +23,7 @@
 
 📍 **Location:** Pune, India  
 📫 **Email:** gaurav.jangam@live.com  
-🌐 **Portfolio:** [GitHub](https://github.com/Gaurav-RemoteRepository)  
+🌐 **Portfolio:** [GitHub](https://github.com/GauravSunilJangam)  
 
 ---
 
