@@ -82,7 +82,7 @@
 ## 🎓 Education  
 
 🎓 **Bachelor of Engineering (Mechanical Engineering)**  
-📍 **Savitribai Phule Pune University | 2009 - 2015**  
+📍 **Savitribai Phule Pune University | 2015**  
 
 ---
 
